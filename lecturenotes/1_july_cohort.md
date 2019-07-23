@@ -5,9 +5,9 @@
 # Administrative Details
 - Google Classroom
 - Graded Modules
-- Support: mentor@algorit.ma or samuel@algorit.ma
 
 # Python for Data Analytics
+## Day 1
 - List: `salary=[15, 7, 7, 10, 8]`
 - Zero-based indexing
     - `salary[3]`
@@ -53,17 +53,47 @@
         - Categorical, Int, Float, DateTime, Object
     - .shape
     - .describe()
+        - .describe(include=['datetime'])
     - .head(), .tail()
+    - .axes() return 2 values, the first one correspond to the row, second one to the column
+        - .axes()[1] -> .columns
+        - len(stock.columns)
+    - .value_counts()
+        - Ex: appl.trade_market.value_counts()
 
+- Indexing
+    - `appl.trade_market` points to a column called trade_market, and the returned value is a `pd.Series`
+    - `appl['trade_market']` is a safer choice, because it allows for otherwise reserved keywords and spaces
+    - ```py
+      cond1 = appl['volume'] = 1000000
+      appl.loc[cond1, 'date']
+      ```
+    - .loc method to subset, we refer by names on that index
+    - .iloc method, it uses the index (numbers)
+        - `.iloc[x,y:z]`
 
 # Agenda
-630pm: Class begins
-740pm: Break
-810pm: End of Break
-930pm: End of Class
+- 630pm: Class begins
+- 740pm: Break
+- 810pm: End of Break
+- 930pm: End of Class
 
 # Resources and Extra Materials
 - https://github.com/onlyphantom/dataanalysis
+
+# Discussion points
+- Arithmetics
+- Equality Check
+- DataFrames vs Series
+- Syntax highlighting is not a feature of Python
+
+
+
+- Spaces / New lines
+
+- Running Python scripts in IDE vs Notebook vs Console
+- Functions constructions
+- Positional vs named arguments
 
 
 
