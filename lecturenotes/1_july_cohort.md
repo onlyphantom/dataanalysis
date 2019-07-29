@@ -7,7 +7,7 @@
 - Graded Modules
 
 # Python for Data Analytics
-## Day 1
+## Day 1 - Day 4
 - List: `salary=[15, 7, 7, 10, 8]`
 - Zero-based indexing
     - `salary[3]`
@@ -71,6 +71,27 @@
     - .loc method to subset, we refer by names on that index
     - .iloc method, it uses the index (numbers)
         - `.iloc[x,y:z]`
+
+- Function
+    ```py
+    def extract_listings(url, num_of_listing=5):
+        url.findAll('ul')
+        ...
+    
+    tokopedia = extract_listing('tokopedia.com.....')
+    blibli = extract_listing('blibli.com.....')
+    tokopedia.to_csv()
+    ```
+    - Anonymous function is also called `lambda`
+
+- `.apply(lambda x: some_operations_on_x )`
+
+- `.str` exposes all the string methods and you can combine them with `.startswith()` to narrow down your search
+
+- `.replace()`; Can do a simple string replace
+    - ex: `.replace("Corporate", "Company")`
+    - ex: `.replace("^\d", "-", regex=True)`
+
 
 # Agenda
 - 630pm: Class begins
