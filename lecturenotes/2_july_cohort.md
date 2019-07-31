@@ -4,6 +4,7 @@
 - Set up your environment
 - Import libraries
 - Acquire your data
+    - `pd.read_csv(comment='#', skiprows=10)`
 - Peek at your data
     - head, tail
     - shape
@@ -55,6 +56,13 @@
         - Explictly provide the `values`
         - Use `.astype` to do an extra step of preprocessing so all non-numeric columns are not numeric types
         - Use column indexing before passing that into the `data` parameter
+
+- Datetimes
+    - `pd.to_datetime(sales['ReportDate'])`
+    - Once it's a datetime, you gain access to `dt`'s attributes and methods
+        - `dt.month`, `dt.week`, `dt.day`...
+    - You can use methods like `dt.to_period('M')`
+    - Practical: Create new features / columns
 
 - Tips
     - Very often, you need to combine EDA with conditional indexing (boolean indexing)
