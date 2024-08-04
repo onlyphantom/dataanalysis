@@ -1,0 +1,63 @@
+Order.ID,Order.Date,Ship.Date,Ship.Mode,Customer.ID,Segment,Product.ID,Category,Sub.Category,Product.Name,Sales,Quantity,Discount,Profit
+CA-2015-137946,9/1/15,9/4/15,Second Class,DB-13615,Consumer,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,959.984,2,0.2,335.9944
+US-2014-135972,9/21/14,9/23/14,Second Class,JG-15115,Consumer,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,1799.97,3,0,701.9883
+CA-2017-117457,12/8/17,12/12/17,Standard Class,KH-16510,Consumer,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,3,0.2,434.9913
+CA-2017-127432,1/22/17,1/27/17,Standard Class,AD-10180,Home Office,TEC-CO-10003236,Technology,Copiers,Canon Image Class D660 Copier,2999.95,5,0,1379.977
+CA-2014-131450,8/8/14,8/15/14,Standard Class,LR-16915,Consumer,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,3,0.2,434.9913
+CA-2016-110499,4/7/16,4/9/16,First Class,YC-21895,Corporate,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1199.976,3,0.2,374.9925
+CA-2015-112452,4/4/15,4/4/15,Same Day,NC-18340,Consumer,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,599.98,2,0,209.993
+CA-2016-153682,5/30/16,6/1/16,First Class,BG-11695,Corporate,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,839.988,2,0.4,69.999
+CA-2014-134278,7/6/14,7/8/14,First Class,EP-13915,Consumer,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,559.992,1,0.2,174.9975
+CA-2015-111829,3/19/15,3/20/15,First Class,FH-14365,Corporate,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,3149.93,7,0,1480.4671
+CA-2016-147417,7/25/16,7/27/16,First Class,CB-12415,Consumer,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,1439.976,4,0.4,191.9968
+CA-2015-142944,3/6/15,3/11/15,Standard Class,JL-15850,Consumer,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,1119.984,2,0.2,377.9946
+US-2017-117534,3/25/17,3/26/17,First Class,CV-12295,Consumer,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,479.984,2,0.2,59.998
+US-2016-164630,1/4/16,1/9/16,Standard Class,EB-13975,Corporate,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,959.968,4,0.2,119.996
+CA-2015-166464,9/12/15,9/17/15,Standard Class,PG-18895,Consumer,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,479.984,2,0.2,59.998
+US-2015-100377,8/28/15,9/1/15,Standard Class,TS-21370,Corporate,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,2799.96,5,0.2,874.9875
+CA-2017-133865,5/8/17,5/12/17,Standard Class,PS-19045,Home Office,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,3359.952,6,0.2,1049.985
+US-2015-131359,10/30/15,11/2/15,Second Class,FA-14230,Corporate,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,439.992,1,0.2,164.997
+CA-2015-104941,6/13/15,6/19/15,Standard Class,DH-13075,Corporate,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,899.97,3,0,314.9895
+CA-2017-161956,8/27/17,8/29/17,Second Class,DR-12880,Corporate,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,879.984,2,0.2,329.994
+CA-2015-140984,9/14/15,9/18/15,Standard Class,CC-12685,Consumer,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,879.984,2,0.2,329.994
+CA-2016-135265,7/7/16,7/9/16,Second Class,CC-12370,Consumer,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,2799.96,5,0.2,944.9865
+CA-2015-156104,12/6/15,12/8/15,Second Class,NP-18685,Home Office,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,999.98,2,0,449.991
+CA-2015-143105,12/10/15,12/10/15,Same Day,MA-17560,Home Office,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,799.984,2,0.2,249.995
+CA-2015-105690,11/21/15,11/26/15,Second Class,CA-11965,Corporate,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,439.992,1,0.2,164.997
+CA-2014-150798,12/1/14,12/3/14,Second Class,JK-15730,Consumer,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,659.988,2,0.4,109.998
+CA-2017-126662,7/17/17,7/21/17,Standard Class,AB-10255,Home Office,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.984,2,0.2,89.997
+CA-2017-145219,12/24/17,12/25/17,First Class,RM-19675,Home Office,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2879.952,6,0.2,1007.9832
+CA-2016-102162,9/11/16,9/16/16,Standard Class,JF-15565,Consumer,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,1599.92,8,0,751.9624
+CA-2016-121370,11/14/16,11/19/16,Second Class,EB-14110,Consumer,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,1199.976,4,0.4,179.9964
+CA-2014-124478,8/8/14,8/12/14,Standard Class,MA-17560,Home Office,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,549.99,1,0,274.995
+CA-2017-133263,3/31/17,4/2/17,Second Class,JE-15610,Corporate,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2999.95,5,0,1439.976
+CA-2017-157966,3/13/17,3/13/17,Same Day,SU-20665,Home Office,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,959.984,2,0.2,335.9944
+US-2015-160857,5/8/15,5/15/15,Standard Class,NW-18400,Consumer,TEC-CO-10004115,Technology,Copiers,Sharp AL-1530CS Digital Copier,2799.944,7,0.2,1014.9797
+CA-2014-163748,10/14/14,10/18/14,Standard Class,HG-15025,Consumer,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1999.96,5,0.2,624.9875
+CA-2015-158939,11/26/15,12/1/15,Standard Class,EA-14035,Corporate,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,599.99,1,0,233.9961
+CA-2015-121783,11/10/15,11/14/15,Standard Class,PO-19180,Home Office,TEC-CO-10001571,Technology,Copiers,Sharp 1540cs Digital Laser Copier,549.99,1,0,274.995
+CA-2015-111780,12/25/15,12/30/15,Second Class,RA-19285,Consumer,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,1199.96,5,0.2,224.9925
+CA-2015-146675,4/16/15,4/20/15,Standard Class,SB-20185,Consumer,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,1439.968,4,0.2,485.9892
+CA-2016-157791,12/23/16,12/28/16,Second Class,CA-11965,Corporate,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,1999.96,4,0,899.982
+US-2017-124779,9/8/17,9/11/17,First Class,BF-11020,Corporate,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,319.984,2,0.2,107.9946
+US-2017-135013,7/24/17,7/24/17,Same Day,HR-14830,Corporate,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2399.96,5,0.2,839.986
+CA-2014-124618,5/2/14,5/4/14,Second Class,CS-11860,Consumer,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.984,2,0.2,89.997
+US-2017-165358,7/18/17,7/23/17,Standard Class,SV-20365,Consumer,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,599.97,5,0.4,69.9965
+US-2017-141677,3/26/17,3/30/17,Standard Class,HK-14890,Corporate,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,2399.96,5,0.2,569.9905
+US-2015-136987,4/11/15,4/14/15,Second Class,AR-10540,Consumer,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,639.968,4,0.2,215.9892
+CA-2016-139997,7/1/16,7/3/16,First Class,EM-14140,Home Office,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,1499.95,5,0,449.985
+US-2017-167920,12/9/17,12/12/17,Second Class,JL-15835,Consumer,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,1399.98,2,0,629.991
+CA-2017-151799,12/14/17,12/18/17,Standard Class,BF-11170,Home Office,TEC-CO-10002313,Technology,Copiers,Canon PC1080F Personal Copier,1199.98,2,0,467.9922
+CA-2014-138128,12/9/14,12/15/14,Standard Class,FP-14320,Consumer,TEC-CO-10001766,Technology,Copiers,Canon PC940 Copier,1079.976,4,0.4,125.9972
+CA-2016-166429,9/2/16,9/8/16,Standard Class,TG-21310,Consumer,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,999.98,2,0,449.991
+CA-2017-152310,8/12/17,8/19/17,Standard Class,DK-12895,Consumer,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,299.99,1,0,89.997
+CA-2015-109190,10/23/15,10/28/15,Standard Class,CC-12685,Consumer,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,479.976,3,0.2,161.9919
+CA-2017-147354,3/9/17,3/13/17,Standard Class,KB-16315,Consumer,TEC-CO-10000971,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,479.984,2,0.2,59.998
+CA-2014-140473,5/30/14,6/3/14,Standard Class,MC-17425,Corporate,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,719.976,3,0.2,134.9955
+CA-2016-162390,12/6/16,12/12/16,Standard Class,DP-13105,Corporate,TEC-CO-10004202,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.984,2,0.2,89.997
+CA-2014-116666,5/8/14,5/10/14,First Class,KT-16480,Consumer,TEC-CO-10001449,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,1799.97,5,0.4,239.996
+CA-2017-100622,11/3/17,11/7/17,Standard Class,DK-13090,Consumer,TEC-CO-10003236,Technology,Copiers,Canon Image Class D660 Copier,959.984,2,0.2,311.9948
+US-2015-128587,12/24/15,12/30/15,Standard Class,HM-14860,Corporate,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,4899.93,7,0,2302.9671
+CA-2017-160633,11/16/17,11/21/17,Standard Class,BS-11380,Corporate,TEC-CO-10002095,Technology,Copiers,Hewlett Packard 610 Color Digital Copier / Printer,899.982,3,0.4,74.9985
+US-2016-125402,9/25/16,10/1/16,Standard Class,DL-12865,Consumer,TEC-CO-10001943,Technology,Copiers,Canon PC-428 Personal Copier,479.976,3,0.2,161.9919
+CA-2016-129630,9/4/16,9/4/16,Same Day,IM-15055,Consumer,TEC-CO-10003763,Technology,Copiers,Canon PC1060 Personal Laser Copier,2799.96,5,0.2,944.9865
