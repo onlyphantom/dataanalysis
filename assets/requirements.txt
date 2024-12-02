@@ -10,7 +10,7 @@ jedi==0.14.1
 kiwisolver==1.1.0
 lxml==4.5.0
 matplotlib==3.2.1
-nltk==3.4.5
+nltk==3.6.5
 numpy==1.18.2
 pandas==1.0.3
 pandas-datareader==0.8.1
